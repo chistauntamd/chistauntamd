@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chista
 - 👀 I’m interested in computer programming
-- 😄 Pronouns: she/her
+
 
 <!---
 chistauntamd/chistauntamd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
